@@ -1,4 +1,4 @@
-const { Post } = require('../models');
+const { Post } = require('../models/User');
 
 const postData = [{
     title: 'King the I',
